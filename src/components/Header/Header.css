@@ -10,6 +10,17 @@
     font-size: 20px;
     margin-top: 20px;
 }
+.big-name{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    color: cyan;
+    background-color: maroon;
+    padding: 5px;
+    margin: 5px;
+    border: 3px solid cyan;
+    border-radius: 5px;
+}
 nav a {
     text-decoration: none;
     color: white;
